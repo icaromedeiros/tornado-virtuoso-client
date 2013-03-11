@@ -1,0 +1,4 @@
+-e git+https://github.com/icaromedeiros/tornado.git@v2.4.1-authdigest#egg=tornado
+# Alternatively, if you don't require digest authentication on Virtuoso, Comment
+# the previous line and uncomment the next one
+# tornado==2.4.1
